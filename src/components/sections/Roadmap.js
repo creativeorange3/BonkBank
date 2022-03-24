@@ -129,7 +129,7 @@ class Roadmap extends React.Component {
                       <ul className="roadmap-item-features-list list-reset text-xs mb-32">
                         <li className="is-checked">Bonk Bank Launch</li>
                         <li className="is-checked">Website Launch</li>
-                        <li>Firs Bank Bonk</li>
+                        <li>First Bank Bonk</li>
                         <li>500 Holders</li>
                       </ul>
                     </div>
